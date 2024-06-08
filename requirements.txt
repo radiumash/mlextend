@@ -1,0 +1,9 @@
+matplotlib
+mlxtend
+numpy
+pandas
+Pillow
+scikit_learn
+seaborn
+streamlit
+xgboost
